@@ -1,0 +1,13 @@
+.DS_Store
+
+node_modules/
+
+.cache/
+.asset-cache/
+.sass-cache/
+.umi/
+
+.gitmodules
+
+external/
+_site/
