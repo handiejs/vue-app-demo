@@ -1,0 +1,21 @@
+[submodule "petals"]
+	path = external/petals
+	url = https://github.com/ourai/petals.git
+[submodule "kokiri-core"]
+	path = external/kokiri-core
+	url = https://github.com/kokiri-ui/core.git
+[submodule "kokiri-el"]
+	path = external/kokiri-el
+	url = https://github.com/kokiri-ui/adapter-element-ui.git
+[submodule "organik"]
+	path = external/organik
+	url = https://github.com/ourai/organik.git
+[submodule "handie-core"]
+	path = external/handie-core
+	url = https://github.com/handiejs/runtime-core.git
+[submodule "handie-vue"]
+	path = external/handie-vue
+	url = https://github.com/handiejs/handie-vue.git
+[submodule "bulbasaur"]
+	path = external/bulbasaur
+	url = https://github.com/handiejs/bulbasaur.git

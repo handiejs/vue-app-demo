@@ -7,7 +7,4 @@ node_modules/
 .sass-cache/
 .umi/
 
-.gitmodules
-
-external/
 _site/
