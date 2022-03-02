@@ -1,6 +1,9 @@
 [submodule "petals"]
 	path = external/petals
 	url = https://github.com/ourai/petals.git
+[submodule "petals-basic"]
+	path = external/petals-basic
+	url = https://github.com/petals-ui/basic.git
 [submodule "kokiri-core"]
 	path = external/kokiri-core
 	url = https://github.com/kokiri-ui/core.git
