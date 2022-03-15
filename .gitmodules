@@ -7,6 +7,9 @@
 [submodule "kokiri-core"]
 	path = external/kokiri-core
 	url = https://github.com/kokiri-ui/core.git
+[submodule "kokiri"]
+	path = external/kokiri
+	url = https://github.com/kokiri-ui/kokiri.git
 [submodule "kokiri-el"]
 	path = external/kokiri-el
 	url = https://github.com/kokiri-ui/adapter-element-ui.git

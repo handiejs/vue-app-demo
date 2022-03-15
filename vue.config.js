@@ -16,12 +16,14 @@ module.exports = {
     resolve: {
       alias: {
         '@': resolve(`${APP_SRC}/shared`),
-        // 'petals-ui/dist': resolve('./external/petals-ui/packages/petals/src'),
+        // '@petals/basic/style': resolve('./external/petals-basic/src/style'),
+        // '@petals/basic': resolve('./external/petals-basic/src/index.ts'),
+        // 'petals-ui/dist': resolve('./external/petals/packages/petals/src'),
         // '@kokiri/core/dist': resolve('./external/kokiri-core/src'),
         // 'kokiri/dist': resolve('./external/kokiri/src'),
         // kokiri: resolve('./external/kokiri/src/index.ts'),
-        // '@kokiri/element/dist': resolve('./external/kokiri-element/src'),
-        // '@kokiri/element': resolve('./external/kokiri-element/src/index.ts'),
+        // '@kokiri/adapter-element-ui/dist': resolve('./external/kokiri-el/src'),
+        // '@kokiri/adapter-element-ui': resolve('./external/kokiri-el/src/index.ts'),
         // '@kokiri/view-ui/dist': resolve('./external/kokiri-iview/src'),
         // '@kokiri/view-ui': resolve('./external/kokiri-iview/src/index.ts'),
         // organik: resolve('./external/organik/src'),
